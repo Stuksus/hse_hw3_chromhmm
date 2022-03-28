@@ -28,3 +28,6 @@ wgEncodeBroadHistoneK562H3k9acStdAlnRep1.bam     --> H3k9ac.bam
 
 # Картинки из браузера
 ![telegram-cloud-photo-size-2-5336942477183138332-y](https://user-images.githubusercontent.com/30021669/160471414-aebbd532-167a-486f-a87a-abf18807403b.jpg)
+
+# Бонус
+файл : https://drive.google.com/file/d/1x2PXEGqwCSNUDhblBuAnnVUJH7owwLup/view?usp=sharing
