@@ -31,3 +31,6 @@ wgEncodeBroadHistoneK562H3k9acStdAlnRep1.bam     --> H3k9ac.bam
 
 # Бонус
 файл : https://drive.google.com/file/d/1x2PXEGqwCSNUDhblBuAnnVUJH7owwLup/view?usp=sharing
+
+![2022-03-28 23 15 37](https://user-images.githubusercontent.com/30021669/160479648-1508ff99-4401-4669-8ca5-aceebc7e9f98.jpg)
+
